@@ -11,3 +11,4 @@ This Python project simulates future stock prices using historical data from NSE
 - Matplotlib
 ## Note
 This is part of my exploration into stochastic finance and risk modeling. Contributions or suggestions are welcome!
+By Sakshi Chaturvedi 
